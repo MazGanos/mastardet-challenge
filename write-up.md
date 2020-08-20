@@ -68,7 +68,7 @@ Hmm.. I am sure I ran more commands.
 
 Here we have our second hint `We are nothing without history, And linux is nothing without environment variables `
 
-After googling I found that history is a variable `HISTFILE`
+After googling I found that history uses an enviroment variable `HISTFILE`
 So we can try setting the history variable to the flag.txt and it might show it to us!, Let's get into work.
 
 tried to run HISTFILE=/root/flag.txt and did not get any error so it ran successfully!.
