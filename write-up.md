@@ -11,10 +11,15 @@ Choose the file that fits your operating system.
 
 Let's inspect the file.
 ![image](https://user-images.githubusercontent.com/69927215/90821653-eb640e00-e33b-11ea-878c-66ab52452d9e.png)
-then we can chmod +x the file and try to run it, we will get a login prompt.
 
-we can try inspecting the binary by doing strings.
+We can see that the file is executable so let's try to execute it.
+So chmod +x challege_linux and run it!
+![image](https://user-images.githubusercontent.com/69927215/90821787-21a18d80-e33c-11ea-822b-dc12d13b29e0.png)
 
-the challenge was made for a group called cyber wizards, so we can try strings challenge_linux |--color=always grep cyberwizards.
+We are getting a password prompt for root@cyberwizards
+I tried throwing few random passowrds like: root, toor, password, etc. And it did not work.
 
-if we look closely we can see the password
+Next I tried looking at the binaries as it's a binary challenge.
+
+For that I used Binary.Ninja , an easy to use GUI.
+![image](https://user-images.githubusercontent.com/69927215/90822121-a2608980-e33c-11ea-9ee9-206005b3ae81.png)
