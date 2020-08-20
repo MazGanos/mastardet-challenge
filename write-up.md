@@ -17,7 +17,7 @@ So chmod +x challege_linux and run it!
 ![image](https://user-images.githubusercontent.com/69927215/90821787-21a18d80-e33c-11ea-822b-dc12d13b29e0.png)
 
 We are getting a password prompt for root@cyberwizards
-I tried throwing few random passowrds like: root, toor, password, etc. And it did not work.
+I tried throwing a few random passowords like: root, toor, password, etc. And it did not work.
 
 Next I tried looking at the binaries as it's a binary challenge.
 
