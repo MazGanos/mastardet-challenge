@@ -23,3 +23,8 @@ Next I tried looking at the binaries as it's a binary challenge.
 
 For that I used Binary.Ninja , an easy to use GUI.
 ![image](https://user-images.githubusercontent.com/69927215/90822121-a2608980-e33c-11ea-9ee9-206005b3ae81.png)
+
+There are a lot of lines in it and it is almost impossible to get anything from that.
+
+I used a hint that masterdet gave us.
+`HINT 1: try searching strings with the hostname of the machine, in the binary`
