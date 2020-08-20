@@ -28,3 +28,11 @@ There are a lot of lines in it and it is almost impossible to get anything from 
 
 I used a hint that masterdet gave us.
 `HINT 1: try searching strings with the hostname of the machine, in the binary`
+
+So let's run strings on the binary with the host name which is `cyberwizards`
+![image](https://user-images.githubusercontent.com/69927215/90822790-a345eb00-e33d-11ea-81c5-ffc7a989c37c.png)
+
+
+
+
+
