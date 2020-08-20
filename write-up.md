@@ -32,7 +32,29 @@ I used a hint that masterdet gave us.
 So let's run strings on the binary with the host name which is `cyberwizards`
 ![image](https://user-images.githubusercontent.com/69927215/90823013-f5870c00-e33d-11ea-91eb-97a5e9c94f44.png)
 
+and there we have it! Let's connect.
+![image](https://user-images.githubusercontent.com/69927215/90823135-28c99b00-e33e-11ea-9584-32f06f6a66b1.png)
 
+So let's try and see what we have, oh cool the flag is right here lets cat it.
+As you can see we can't cat it and it's a restricted shell, which means there are very few commands that work.
+![image](https://user-images.githubusercontent.com/69927215/90823293-59a9d000-e33e-11ea-81ac-aa05604e3139.png)
+
+After we run help we can see that we have few commands available.
+Let's try running export.
+![image](https://user-images.githubusercontent.com/69927215/90823422-8958d800-e33e-11ea-9f12-d1bb1cf8cc99.png)
+
+We could try to use it.
+![image](https://user-images.githubusercontent.com/69927215/90823669-ea80ab80-e33e-11ea-8bc0-48a6bf66c711.png)
+
+Doesn't look like we can use it.
+
+let's try running reboot, it might restart it and exit the restricted mode.
+![image](https://user-images.githubusercontent.com/69927215/90823752-0dab5b00-e33f-11ea-8d82-346c527176c8.png)
+
+A rabbit hole.
+
+Let's try running the history command.
+![image](https://user-images.githubusercontent.com/69927215/90823814-2451b200-e33f-11ea-8ea9-ede8025fb4bb.png)
 
 
 
