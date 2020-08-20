@@ -10,7 +10,7 @@ So let's begin.
 Choose the file that fits your operating system.
 
 Let's inspect the file.
-
+![image](https://user-images.githubusercontent.com/69927215/90821653-eb640e00-e33b-11ea-878c-66ab52452d9e.png)
 then we can chmod +x the file and try to run it, we will get a login prompt.
 
 we can try inspecting the binary by doing strings.
