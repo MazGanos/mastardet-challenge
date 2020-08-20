@@ -1,6 +1,10 @@
 # masterdet's first challenge.
  
-**after unziping the tar file we have two files, choose the file that fits your operating system.**
+ Big thanks for [@masterdet](https://www.youtube.com/channel/UC66idcoWzeZ_AsTnYr3L37g/featured) for the creating the challenge, a great guy with a lot of experince and a good mentor.
+ 
+
+ 
+after unziping the tar file we have two files, choose the file that fits your operating system.
 
 so we have a file, let's check what is it.
 we can run 
