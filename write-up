@@ -1,6 +1,9 @@
-masterdet's first challenge.
+# masterdet's first challenge.
 
 after unziping the tar file we have two files, choose the file that fits your operating system.
+
+so we have a file, let's check what is it.
+we can run 
 
 then we can chmod +x the file and try to run it, we will get a login prompt.
 
