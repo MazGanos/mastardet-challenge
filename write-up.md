@@ -1,6 +1,6 @@
-# masterdet's first challenge.
+# mastardet's first challenge.
  
-#### Big thanks for [@masterdet](https://www.youtube.com/channel/UC66idcoWzeZ_AsTnYr3L37g/featured) for the creating the challenge, a great guy with a lot of experince and a good mentor.
+#### Big thanks for [@mastardet](https://www.youtube.com/channel/UC66idcoWzeZ_AsTnYr3L37g/featured) for the creating the challenge, a great guy with a lot of experince and a good mentor.
 
 #### Category: basic binary + basic linux
  
@@ -81,7 +81,7 @@ And there it is!
 
 ![image](https://user-images.githubusercontent.com/69927215/90824529-3b44d400-e340-11ea-9db5-ca1cc59f24f1.png)
 
-##### Big thanks again for [@masterdet](https://www.youtube.com/channel/UC66idcoWzeZ_AsTnYr3L37g/featured) for creating this challenge and you should definitely check out his youtube channel for more!
+##### Big thanks again for [@mastardet](https://www.youtube.com/channel/UC66idcoWzeZ_AsTnYr3L37g/featured) for creating this challenge and you should definitely check out his youtube channel for more!
 ##### Thanks for reading! by -MazGan
 
 
